@@ -12567,6 +12567,6 @@ dimwishlist:item=2891672170&perks=4090651448,791862061,3300816228,2360754333#not
 
 
 //동경의 대상
-dimwishlist:item=4184808992#notes:PvE Triple Tap/Vorpal Weapon, PvP Killing Wind, Snapshot Sights, remba
+dimwishlist:item=4184808992#notes:PvE Triple Tap/Vorpal Weapon, PvP Killing Wind, Snapshot Sights, 렘바테스트
 
 
