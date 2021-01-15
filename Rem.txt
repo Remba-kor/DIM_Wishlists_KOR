@@ -12566,7 +12566,7 @@ dimwishlist:item=2891672170&perks=1482024992,106909392,3300816228,2360754333#not
 dimwishlist:item=2891672170&perks=4090651448,791862061,3300816228,2360754333#notes:Upve9 MW Reload
 
 
-//Adored
-dimwishlist:item=4184808992#notes:PvE Triple Tap/Vorpal Weapon, PvP Killing Wind, Snapshot Sights
+//동경의 대상
+dimwishlist:item=4184808992#notes:PvE Triple Tap/Vorpal Weapon, PvP Killing Wind, Snapshot Sights, 렘바
 
 
